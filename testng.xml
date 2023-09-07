@@ -5,7 +5,7 @@
         <classes>
             <class name="mpack.FirstTest">
                 <methods>
-                    <include name="mOne"/>
+                    <include name="OpenBrowser"/>
                 </methods>
             </class>
         </classes>
