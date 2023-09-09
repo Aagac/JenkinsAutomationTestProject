@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 public class FirstTest {
     @Test
     public void OpenBrowser()  {
-        WebDriver driver;
+        WebDriver driver
         System.setProperty("webdriverrrr.chrome.driver", "/usr/bin/chromedriver");
         ChromeOptions options = new ChromeOptions();
         options.addArguments("headless");
